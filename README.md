@@ -1,6 +1,6 @@
 # 🧠 Python Quiz Game Project
 
-A console-based quiz application developed as a Class 12 Computer Science project. This application uses Python and the **Pandas** library to manage question databases, track user sessions, and generate a real-time leaderboard.
+A console-based quiz application developed as a Class 12 project. This application uses Python and the **Pandas** library to manage question databases, track user sessions, and generate a real-time leaderboard.
 
 ## 📋 Project Overview
 This project demonstrates the use of data manipulation in Python to create an interactive user experience. Unlike simple hard-coded quizzes, this application loads data dynamically from external files and persists user performance data.
